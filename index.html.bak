@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url=landing-page/index.html">
+  <meta name="robots" content="index, follow">
+  <title>Redirecting...</title>
+  <link rel="canonical" href="landing-page/index.html">
+</head>
+<body>
+  <p>Redirecting to <a href="landing-page/index.html">landing page</a>...</p>
+  <script>window.location.href = 'landing-page/index.html';</script>
+</body>
+</html>

@@ -1,0 +1,375 @@
+FILE: about us\about-us\index.html
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fabout-us%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fabout-us%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://infinitepropertyimprovement.com/wp-json/" />
+<link rel="alternate" title="JSON" type="application/json" href="https://infinitepropertyimprovement.com/wp-json/wp/v2/pages/38" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://infinitepropertyimprovement.com/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://infinitepropertyimprovement.com/about-us/" />
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-38 current_page_item menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" aria-current="page" class="elementor-item elementor-item-active">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item" tabindex="-1">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-38 current_page_item menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item" tabindex="-1">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item" tabindex="-1">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item" tabindex="-1">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item" tabindex="-1">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item" tabindex="-1">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item" tabindex="-1">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item" tabindex="-1">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://infinitepropertyimprovement.com/quote/">
+<a href="https://infinitepropertyimprovement.com/2024/11/13/home-renovation/">
+<a href="https://infinitepropertyimprovement.com/kitchen-and-bath/">
+<a href="https://infinitepropertyimprovement.com/deck-construction/">
+<a href="https://infinitepropertyimprovement.com/fencing/">
+<a href="https://infinitepropertyimprovement.com/basement-renovations/">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-38 current_page_item menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" aria-current="page" class="elementor-item elementor-item-active">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item" tabindex="-1">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-38 current_page_item menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">About Us</a></li>
+FILE: basement\basement-renovations\index.html
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fbasement-renovations%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fbasement-renovations%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://infinitepropertyimprovement.com/wp-json/" />
+<link rel="alternate" title="JSON" type="application/json" href="https://infinitepropertyimprovement.com/wp-json/wp/v2/pages/98" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://infinitepropertyimprovement.com/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://infinitepropertyimprovement.com/basement-renovations/" />
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-98 current_page_item menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" aria-current="page" class="elementor-sub-item elementor-item-active">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item" tabindex="-1">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item" tabindex="-1">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item" tabindex="-1">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item" tabindex="-1">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item" tabindex="-1">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item" tabindex="-1">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-98 current_page_item menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item" tabindex="-1">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://infinitepropertyimprovement.com/quote/">
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://infinitepropertyimprovement.com/wp-content/uploads/2025/04/Basements-Infinte-Property-Improvement-Services-2.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8477243"
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://infinitepropertyimprovement.com/wp-content/uploads/2025/04/Basements-Infinte-Property-Improvement-Services-3.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8477243"
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://infinitepropertyimprovement.com/wp-content/uploads/2025/04/Basements-Infinte-Property-Improvement-Services-4.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8477243"
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://infinitepropertyimprovement.com/wp-content/uploads/2025/04/Basements-Infinte-Property-Improvement-Services-6.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8477243"
+<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="https://infinitepropertyimprovement.com/wp-content/uploads/2025/04/Basements-Infinte-Property-Improvement-Services-1.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="8477243"
+<a href="https://infinitepropertyimprovement.com/2024/11/13/home-renovation/">
+<a href="https://infinitepropertyimprovement.com/kitchen-and-bath/">
+<a href="https://infinitepropertyimprovement.com/deck-construction/">
+<a href="https://infinitepropertyimprovement.com/fencing/">
+<a href="https://infinitepropertyimprovement.com/basement-renovations/">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item" tabindex="-1">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+FILE: contact us\contact-us\index.html
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fcontact-us%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fcontact-us%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://infinitepropertyimprovement.com/wp-json/" />
+<link rel="alternate" title="JSON" type="application/json" href="https://infinitepropertyimprovement.com/wp-json/wp/v2/pages/112" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://infinitepropertyimprovement.com/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://infinitepropertyimprovement.com/contact-us/" />
+FILE: deck\deck-construction\index.html
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fdeck-construction%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fdeck-construction%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://infinitepropertyimprovement.com/wp-json/" />
+<link rel="alternate" title="JSON" type="application/json" href="https://infinitepropertyimprovement.com/wp-json/wp/v2/pages/103" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://infinitepropertyimprovement.com/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://infinitepropertyimprovement.com/deck-construction/" />
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-103 current_page_item menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" aria-current="page" class="elementor-sub-item elementor-item-active">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item" tabindex="-1">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-103 current_page_item menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item" tabindex="-1">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item" tabindex="-1">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item" tabindex="-1">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item" tabindex="-1">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item" tabindex="-1">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item" tabindex="-1">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://infinitepropertyimprovement.com/quote/">
+<a href="https://infinitepropertyimprovement.com/2024/11/13/home-renovation/">
+<a href="https://infinitepropertyimprovement.com/kitchen-and-bath/">
+<a href="https://infinitepropertyimprovement.com/deck-construction/">
+<a href="https://infinitepropertyimprovement.com/fencing/">
+<a href="https://infinitepropertyimprovement.com/basement-renovations/">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item" tabindex="-1">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+FILE: fencing\fencing\index.html
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Ffencing%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Ffencing%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://infinitepropertyimprovement.com/wp-json/" />
+<link rel="alternate" title="JSON" type="application/json" href="https://infinitepropertyimprovement.com/wp-json/wp/v2/pages/90" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://infinitepropertyimprovement.com/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://infinitepropertyimprovement.com/fencing/" />
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-90 current_page_item menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" aria-current="page" class="elementor-sub-item elementor-item-active">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item" tabindex="-1">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item" tabindex="-1">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item" tabindex="-1">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-90 current_page_item menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item" tabindex="-1">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item" tabindex="-1">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item" tabindex="-1">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item" tabindex="-1">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://infinitepropertyimprovement.com/quote/">
+<a href="https://infinitepropertyimprovement.com/2024/11/13/home-renovation/">
+<a href="https://infinitepropertyimprovement.com/kitchen-and-bath/">
+<a href="https://infinitepropertyimprovement.com/deck-construction/">
+<a href="https://infinitepropertyimprovement.com/fencing/">
+<a href="https://infinitepropertyimprovement.com/basement-renovations/">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item" tabindex="-1">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+FILE: home\home-additions\index.html
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fhome-additions%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fhome-additions%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://infinitepropertyimprovement.com/wp-json/" />
+<link rel="alternate" title="JSON" type="application/json" href="https://infinitepropertyimprovement.com/wp-json/wp/v2/pages/69" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://infinitepropertyimprovement.com/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://infinitepropertyimprovement.com/home-additions/" />
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-69 current_page_item menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" aria-current="page" class="elementor-sub-item elementor-item-active">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item" tabindex="-1">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item" tabindex="-1">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-69 current_page_item menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item" tabindex="-1">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item" tabindex="-1">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item" tabindex="-1">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item" tabindex="-1">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item" tabindex="-1">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://infinitepropertyimprovement.com/quote/">
+<a href="https://infinitepropertyimprovement.com/2024/11/13/home-renovation/">
+<a href="https://infinitepropertyimprovement.com/kitchen-and-bath/">
+<a href="https://infinitepropertyimprovement.com/deck-construction/">
+<a href="https://infinitepropertyimprovement.com/fencing/">
+<a href="https://infinitepropertyimprovement.com/basement-renovations/">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item" tabindex="-1">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+FILE: kitchen\kitchen-and-bath\index.html
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fkitchen-and-bath%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fkitchen-and-bath%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://infinitepropertyimprovement.com/wp-json/" />
+<link rel="alternate" title="JSON" type="application/json" href="https://infinitepropertyimprovement.com/wp-json/wp/v2/pages/46" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://infinitepropertyimprovement.com/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://infinitepropertyimprovement.com/kitchen-and-bath/" />
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-46 current_page_item menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" aria-current="page" class="elementor-sub-item elementor-item-active">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item" tabindex="-1">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item" tabindex="-1">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item" tabindex="-1">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item" tabindex="-1">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item" tabindex="-1">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-46 current_page_item menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item" tabindex="-1">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item" tabindex="-1">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://infinitepropertyimprovement.com/quote/">
+<a href="https://infinitepropertyimprovement.com/2024/11/13/home-renovation/">
+<a href="https://infinitepropertyimprovement.com/kitchen-and-bath/">
+<a href="https://infinitepropertyimprovement.com/deck-construction/">
+<a href="https://infinitepropertyimprovement.com/fencing/">
+<a href="https://infinitepropertyimprovement.com/basement-renovations/">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item" tabindex="-1">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+FILE: landing page\index.html
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://infinitepropertyimprovement.com/wp-json/" />
+<link rel="alternate" title="JSON" type="application/json" href="https://infinitepropertyimprovement.com/wp-json/wp/v2/pages/10" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://infinitepropertyimprovement.com/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://infinitepropertyimprovement.com/" />
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10 current_page_item menu-item-156"><a href="https://infinitepropertyimprovement.com/" aria-current="page" class="elementor-item elementor-item-active">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10 current_page_item menu-item-156"><a href="https://infinitepropertyimprovement.com/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item" tabindex="-1">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item" tabindex="-1">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item" tabindex="-1">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item" tabindex="-1">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item" tabindex="-1">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item" tabindex="-1">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item" tabindex="-1">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://infinitepropertyimprovement.com/quote/">
+<figure class="elementor-image-box-img"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" tabindex="-1"><img decoding="async" width="1024" height="1024" src="https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/infinite-property-improvement-service-kitchen-reno.webp" class="attachment-full size-full wp-image-18" alt="" srcset="https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/infinite-property-improvement-service-kitchen-reno.webp 1024w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/infinite-property-improvement-service-kitchen-reno-300x300.webp 300w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/infinite-property-improvement-service-kitchen-reno-150x150.webp 150w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/infinite-property-improvement-service-kitchen-reno-768x768.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<h3 class="elementor-image-box-title"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/">Kitchen Makeovers</a></h3>
+<figure class="elementor-image-box-img"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" tabindex="-1"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/infinite-property-improvement-service-bathroom-reno.webp" class="attachment-full size-full wp-image-25" alt="" srcset="https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/infinite-property-improvement-service-bathroom-reno.webp 1024w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/infinite-property-improvement-service-bathroom-reno-300x300.webp 300w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/infinite-property-improvement-service-bathroom-reno-150x150.webp 150w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/infinite-property-improvement-service-bathroom-reno-768x768.webp 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<h3 class="elementor-image-box-title"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/">Bathroom Updates </a></h3>
+<figure class="elementor-image-box-img"><a href="https://infinitepropertyimprovement.com/basement-renovations/" tabindex="-1"><img loading="lazy" decoding="async" width="1024" height="1024" src="https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/12282576391728924142-1.png" class="attachment-full size-full wp-image-26" alt="" srcset="https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/12282576391728924142-1.png 1024w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/12282576391728924142-1-300x300.png 300w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/12282576391728924142-1-150x150.png 150w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/10/12282576391728924142-1-768x768.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+<h3 class="elementor-image-box-title"><a href="https://infinitepropertyimprovement.com/basement-renovations/">Basement Renovation</a></h3>
+<figure class="elementor-image-box-img"><a href="https://infinitepropertyimprovement.com/deck-construction/" tabindex="-1"><img loading="lazy" decoding="async" width="800" height="800" src="https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS.jpg" class="attachment-full size-full wp-image-31" alt="" srcset="https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS.jpg 800w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-300x300.jpg 300w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-150x150.jpg 150w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+<h3 class="elementor-image-box-title"><a href="https://infinitepropertyimprovement.com/deck-construction/">Deck Construction</a></h3>
+<figure class="elementor-image-box-img"><a href="https://infinitepropertyimprovement.com/painting/" tabindex="-1"><img loading="lazy" decoding="async" width="800" height="800" src="https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-1.jpg" class="attachment-full size-full wp-image-29" alt="" srcset="https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-1.jpg 800w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-1-300x300.jpg 300w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-1-150x150.jpg 150w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-1-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+<h3 class="elementor-image-box-title"><a href="https://infinitepropertyimprovement.com/painting/">Painting</a></h3>
+<figure class="elementor-image-box-img"><a href="https://infinitepropertyimprovement.com/2024/11/13/home-renovation/" tabindex="-1"><img loading="lazy" decoding="async" width="800" height="800" src="https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-2.jpg" class="attachment-full size-full wp-image-30" alt="" srcset="https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-2.jpg 800w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-2-300x300.jpg 300w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-2-150x150.jpg 150w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/IPIS-2-768x768.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+<h3 class="elementor-image-box-title"><a href="https://infinitepropertyimprovement.com/2024/11/13/home-renovation/">Full Home Renovations</a></h3>
+<a href="https://infinitepropertyimprovement.com/2024/11/13/home-renovation/">
+<a href="https://infinitepropertyimprovement.com/kitchen-and-bath/">
+<a href="https://infinitepropertyimprovement.com/deck-construction/">
+<a href="https://infinitepropertyimprovement.com/fencing/">
+<a href="https://infinitepropertyimprovement.com/basement-renovations/">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item" tabindex="-1">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+FILE: painting\painting\index.html
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fpainting%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fpainting%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://infinitepropertyimprovement.com/wp-json/" />
+<link rel="alternate" title="JSON" type="application/json" href="https://infinitepropertyimprovement.com/wp-json/wp/v2/pages/85" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://infinitepropertyimprovement.com/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://infinitepropertyimprovement.com/painting/" />
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-85 current_page_item menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" aria-current="page" class="elementor-sub-item elementor-item-active">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item" tabindex="-1">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item" tabindex="-1">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item" tabindex="-1">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item" tabindex="-1">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item" tabindex="-1">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item" tabindex="-1">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item" tabindex="-1">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-85 current_page_item menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://infinitepropertyimprovement.com/quote/">
+<a href="https://infinitepropertyimprovement.com/2024/11/13/home-renovation/">
+<a href="https://infinitepropertyimprovement.com/kitchen-and-bath/">
+<a href="https://infinitepropertyimprovement.com/deck-construction/">
+<a href="https://infinitepropertyimprovement.com/fencing/">
+<a href="https://infinitepropertyimprovement.com/basement-renovations/">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" class="elementor-item" tabindex="-1">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+FILE: quote\quote\index.html
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fquote%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://infinitepropertyimprovement.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finfinitepropertyimprovement.com%2Fquote%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://infinitepropertyimprovement.com/wp-json/" />
+<link rel="alternate" title="JSON" type="application/json" href="https://infinitepropertyimprovement.com/wp-json/wp/v2/pages/187" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://infinitepropertyimprovement.com/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://infinitepropertyimprovement.com/quote/" />
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-156"><a href="https://infinitepropertyimprovement.com/" class="elementor-item" tabindex="-1">Welcome</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-148"><a href="https://infinitepropertyimprovement.com/deck-construction/" class="elementor-sub-item" tabindex="-1">Deck Construction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a href="https://infinitepropertyimprovement.com/home-additions/" class="elementor-sub-item" tabindex="-1">Home Additions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-150"><a href="https://infinitepropertyimprovement.com/fencing/" class="elementor-sub-item" tabindex="-1">Fencing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a href="https://infinitepropertyimprovement.com/flooring/" class="elementor-sub-item" tabindex="-1">Flooring</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-154"><a href="https://infinitepropertyimprovement.com/kitchen-and-bath/" class="elementor-sub-item" tabindex="-1">Kitchen and Bath</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="https://infinitepropertyimprovement.com/basement-renovations/" class="elementor-sub-item" tabindex="-1">Basement Renovations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://infinitepropertyimprovement.com/painting/" class="elementor-sub-item" tabindex="-1">Painting</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<a class="elementor-button elementor-button-link elementor-size-sm" href="https://infinitepropertyimprovement.com/quote/">
+<a href="https://infinitepropertyimprovement.com/2024/11/13/home-renovation/">
+<a href="https://infinitepropertyimprovement.com/kitchen-and-bath/">
+<a href="https://infinitepropertyimprovement.com/deck-construction/">
+<a href="https://infinitepropertyimprovement.com/fencing/">
+<a href="https://infinitepropertyimprovement.com/basement-renovations/">
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-187 current_page_item menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" aria-current="page" class="elementor-item elementor-item-active">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-187 current_page_item menu-item-197"><a href="https://infinitepropertyimprovement.com/quote/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Quote</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://infinitepropertyimprovement.com/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://infinitepropertyimprovement.com/about-us/" class="elementor-item" tabindex="-1">About Us</a></li>

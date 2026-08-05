@@ -1,0 +1,73 @@
+from pathlib import Path
+import re
+import os
+
+base = Path(r"c:\Users\USER\OneDrive\Desktop\clone")
+page_map = {
+    "https://infinitepropertyimprovement.com/": base / "landing-page" / "index.html",
+    "https://infinitepropertyimprovement.com/about-us/": base
+    / "about-us"
+    / "about-us"
+    / "index.html",
+    "https://infinitepropertyimprovement.com/basement-renovations/": base
+    / "basement"
+    / "basement-renovations"
+    / "index.html",
+    "https://infinitepropertyimprovement.com/contact-us/": base
+    / "contact-us"
+    / "contact-us"
+    / "index.html",
+    "https://infinitepropertyimprovement.com/deck-construction/": base
+    / "deck"
+    / "deck-construction"
+    / "index.html",
+    "https://infinitepropertyimprovement.com/fencing/": base
+    / "fencing"
+    / "fencing"
+    / "index.html",
+    "https://infinitepropertyimprovement.com/home-additions/": base
+    / "home"
+    / "home-additions"
+    / "index.html",
+    "https://infinitepropertyimprovement.com/kitchen-and-bath/": base
+    / "kitchen"
+    / "kitchen-and-bath"
+    / "index.html",
+    "https://infinitepropertyimprovement.com/painting/": base
+    / "painting"
+    / "painting"
+    / "index.html",
+    "https://infinitepropertyimprovement.com/quote/": base
+    / "quote"
+    / "quote"
+    / "index.html",
+}
+for url, target in page_map.items():
+    if not target.exists():
+        raise FileNotFoundError(f"Missing target for {url}: {target}")
+pattern = re.compile(
+    r'<a[^>]+href=(?P<quote>["\'])(?P<url>https://infinitepropertyimprovement.com/[^"\']*/)(?P=quote)',
+    re.IGNORECASE,
+)
+replacements = []
+for file in sorted(base.rglob("index.html")):
+    text = file.read_text(encoding="utf8")
+
+    def repl(match):
+        url = match.group("url")
+        quote = match.group("quote")
+        if url in page_map:
+            rel = Path(os.path.relpath(page_map[url], start=file.parent)).as_posix()
+            return match.group(0).replace(url, rel)
+        return match.group(0)
+
+    new_text, count = pattern.subn(repl, text)
+    if count:
+        bak = file.with_suffix(file.suffix + ".bak")
+        if not bak.exists():
+            bak.write_text(text, encoding="utf8")
+        file.write_text(new_text, encoding="utf8")
+        replacements.append((file.relative_to(base), count))
+for file, count in replacements:
+    print(f"UPDATED {file} ({count} replacements)")
+print(f"TOTAL files updated: {len(replacements)}")

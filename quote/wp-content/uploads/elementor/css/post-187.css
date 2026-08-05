@@ -1,0 +1,124 @@
+.elementor-187 .elementor-element.elementor-element-e606dc9 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+    --gap: 0px 0px;
+    --row-gap: 0px;
+    --column-gap: 0px;
+    --padding-top: 0px;
+    --padding-bottom: 0px;
+    --padding-left: 0px;
+    --padding-right: 0px;
+}
+
+.elementor-widget-slides .elementor-slide-heading {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-widget-slides .elementor-slide-description {
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-widget-slides .elementor-slide-button {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-accent-font-weight);
+}
+
+.elementor-187 .elementor-element.elementor-element-fad2d7e .elementor-repeater-item-7067960 .swiper-slide-bg {
+    background-color: #833ca3;
+    background-image: url(https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/Untitled-design-2024-11-15T164723.538.jpg);
+    background-size: cover;
+}
+
+.elementor-187 .elementor-element.elementor-element-fad2d7e .elementor-repeater-item-7067960 .elementor-background-overlay {
+    background-color: #08080838;
+}
+
+.elementor-187 .elementor-element.elementor-element-fad2d7e .swiper-slide {
+    transition-duration: calc(5000ms*1.2);
+    height: 671px;
+}
+
+.elementor-187 .elementor-element.elementor-element-fad2d7e>.elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-187 .elementor-element.elementor-element-fad2d7e .swiper-slide-contents {
+    max-width: 66%;
+}
+
+.elementor-187 .elementor-element.elementor-element-fad2d7e .swiper-slide-inner {
+    text-align: center;
+}
+
+.elementor-187 .elementor-element.elementor-element-fad2d7e .elementor-slide-heading {
+    font-family: "Roboto", Sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.elementor-187 .elementor-element.elementor-element-fad2d7e .elementor-slide-description {
+    font-family: "Roboto Slab", Sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.elementor-187 .elementor-element.elementor-element-fad2d7e .elementor-slide-button {
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.elementor-187 .elementor-element.elementor-element-67632b7d {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --flex-wrap-mobile: wrap;
+}
+
+.elementor-widget-heading .elementor-heading-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+    color: var( --e-global-color-primary);
+}
+
+.elementor-187 .elementor-element.elementor-element-1976a548>.elementor-widget-container {
+    background-color: var( --e-global-color-493f7b0);
+    margin: 10px 0px 10px 0px;
+    padding: 10px 10px 10px 10px;
+}
+
+.elementor-187 .elementor-element.elementor-element-1976a548 {
+    text-align: center;
+}
+
+.elementor-187 .elementor-element.elementor-element-1976a548 .elementor-heading-title {
+    font-family: "Roboto", Sans-serif;
+    font-weight: 400;
+    color: var( --e-global-color-e97317e);
+}
+
+:root {
+    --page-title-display: none;
+}
+
+@media(max-width:767px) {
+    .elementor-187 .elementor-element.elementor-element-fad2d7e .swiper-slide {
+        height: 400px;
+    }
+    .elementor-187 .elementor-element.elementor-element-fad2d7e .elementor-slide-heading {
+        font-size: 25px;
+    }
+    .elementor-187 .elementor-element.elementor-element-fad2d7e .elementor-slide-description {
+        font-size: 16px;
+    }
+}

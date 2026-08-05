@@ -1,0 +1,26 @@
+from pathlib import Path
+import os
+base = Path(r'c:\Users\USER\OneDrive\Desktop\clone')
+pages = {
+    '': Path('landing page/index.html'),
+    'about-us': Path('about us/about-us/index.html'),
+    'basement-renovations': Path('basement/basement-renovations/index.html'),
+    'contact-us': Path('contact us/contact-us/index.html'),
+    'deck-construction': Path('deck/deck-construction/index.html'),
+    'fencing': Path('fencing/fencing/index.html'),
+    'home-additions': Path('home/home-additions/index.html'),
+    'kitchen-and-bath': Path('kitchen/kitchen-and-bath/index.html'),
+    'painting': Path('painting/painting/index.html'),
+    'quote': Path('quote/quote/index.html'),
+}
+for file in sorted(base.rglob('index.html')):
+    relfile = file.relative_to(base)
+    print(f'FILE: {relfile}')
+    from_dir = file.parent
+    for slug, target in pages.items():
+        if not target.exists():
+            print(f'  {slug or "root"}: MISSING')
+            continue
+        rel = os.path.relpath(target, start=from_dir).replace('\\','/')
+        print(f'  {slug or "root"}: {rel}')
+    print()

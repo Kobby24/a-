@@ -1,0 +1,3 @@
+ var wpformsDispatchEvent = function (el, ev, custom) { var e = document.createEvent(custom ? "CustomEvent" : "HTMLEvents"); custom ? e.initCustomEvent(ev, true, true, false) : e.initEvent(ev, true, true); el.dispatchEvent(e); }; var wpformsRecaptchaV3Execute
+= function ( callback ) { grecaptcha.execute( "6LdoQRYrAAAAAIgl8UAJHYjxbGj-LpE8jcMV1qJH", { action: "wpforms" } ).then( function ( token ) { Array.prototype.forEach.call( document.getElementsByName( "wpforms[recaptcha]" ), function ( el ) { el.value =
+token; } ); if ( typeof callback === "function" ) { return callback(); } } ); } grecaptcha.ready( function () { wpformsDispatchEvent( document, "wpformsRecaptchaLoaded", true ); } ); //# sourceURL=wpforms-recaptcha-js-after
