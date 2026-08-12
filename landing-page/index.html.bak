@@ -92,7 +92,7 @@
 
 <body class="home wp-singular page-template-default page page-id-10 wp-theme-hello-elementor elementor-default elementor-kit-6 elementor-page elementor-page-10">
     <header data-elementor-type="header" data-elementor-id="140" class="elementor elementor-140 elementor-location-header" data-elementor-post-type="elementor_library">
-        <header class="elementor-element elementor-element-52865634 e-con-full e-flex e-con e-parent" data-id="52865634" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
+        <header class="elementor-element elementor-element-52865634 e-con-full e-flex e-con e-parent" data-id="52865634" style="background-color: white;"data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
             <div class="elementor-element elementor-element-33d1c7e8 e-con-full e-flex e-con e-child" data-id="33d1c7e8" data-element_type="container">
                 <div class="elementor-element elementor-element-24e304ea elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget elementor-widget-image" data-id="24e304ea" data-element_type="widget" data-widget_type="image.default">
                     <div class="elementor-widget-container">
