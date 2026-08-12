@@ -97,7 +97,7 @@
                 <div class="elementor-element elementor-element-24e304ea elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget elementor-widget-image" data-id="24e304ea" data-element_type="widget" data-widget_type="image.default">
                     <div class="elementor-widget-container">
                         <a href="https://infinitepropertyimprovement.com">
-							<img fetchpriority="high" width="3456" height="2048" src="../Godestate-Logo.png" class="attachment-full size-full wp-image-144" alt="" srcset="../Godestate-Logo.png 3456w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/19091613581731626512-300x178.png 300w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/19091613581731626512-1024x607.png 1024w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/19091613581731626512-768x455.png 768w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/19091613581731626512-1536x910.png 1536w, https://infinitepropertyimprovement.com/wp-content/uploads/2024/11/19091613581731626512-2048x1214.png 2048w" sizes="(max-width: 3456px) 100vw, 3456px" />								</a>
+							<img fetchpriority="high" width="3456" height="2048" src="../../Godestate-Logo.png" class="attachment-full size-full wp-image-144" alt="" srcset="../../Godestate-Logo.png 3456w, ../../Godestate-Logo.png 300w, ../../Godestate-Logo.png 1024w, ../../Godestate-Logo.png 768w, ../../Godestate-Logo.png 1536w, ../../Godestate-Logo.png 2048w" sizes="(max-width: 3456px) 100vw, 3456px" />								</a>
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-1590738e elementor-nav-menu__align-center elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-widget-tablet__width-initial elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu"
@@ -513,7 +513,7 @@
                 <div class="elementor-element elementor-element-68f7f514 elementor-position-top elementor-widget elementor-widget-image-box" data-id="68f7f514" data-element_type="widget" data-widget_type="image-box.default">
                     <div class="elementor-widget-container">
                         <div class="elementor-image-box-wrapper">
-                            <figure class="elementor-image-box-img"><img width="3456" height="2048" src="../Godestate-Logo.png" class="attachment-full size-full wp-image-144" alt="" /></figure>
+                            <figure class="elementor-image-box-img"><img width="3456" height="2048" src="../../Godestate-Logo.png" class="attachment-full size-full wp-image-144" alt="" /></figure>
                             <div class="elementor-image-box-content">
                                 <p class="elementor-image-box-description">Summarize your business so the visitor can learn about your offerings from any page on your website.</p>
                             </div>
