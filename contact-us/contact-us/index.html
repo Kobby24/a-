@@ -567,6 +567,255 @@
 </head>
 
 <body class="wp-singular page-template page-template-elementor_canvas page page-id-112 wp-theme-hello-elementor elementor-default elementor-template-canvas elementor-kit-6 elementor-page elementor-page-112">
+    <style>
+        .elementor-element-5d150ff7 > .e-con-inner {
+            display: grid;
+            grid-template-columns: minmax(0, 0.95fr) minmax(0, 1.35fr);
+            gap: 32px;
+            align-items: stretch;
+            padding: 32px 30px;
+            border: 1px solid rgba(6, 106, 171, 0.12);
+            border-radius: 26px;
+            background: linear-gradient(180deg, rgba(255,255,255,0.94), rgba(244,247,250,0.96));
+            box-shadow: 0 18px 40px rgba(17, 24, 39, 0.08);
+        }
+
+        .elementor-element-2465bdf4,
+        .elementor-element-5f071c72 {
+            background: rgba(255, 255, 255, 0.84);
+            border: 1px solid rgba(17, 24, 39, 0.06);
+            border-radius: 22px;
+            padding: 28px 24px;
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9);
+        }
+
+        .elementor-element-2465bdf4 {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            gap: 18px;
+        }
+
+        .elementor-element-2465bdf4 .elementor-widget,
+        .elementor-element-5f071c72 .elementor-widget {
+            margin: 0;
+        }
+
+        .elementor-element-2465bdf4 .elementor-widget-container,
+        .elementor-element-5f071c72 .elementor-widget-container {
+            padding: 0;
+        }
+
+        .elementor-element-2465bdf4 .elementor-heading-title,
+        .elementor-element-5f071c72 .elementor-heading-title {
+            margin: 0;
+            color: #1f2937;
+            font-weight: 700;
+            line-height: 1.2;
+            letter-spacing: -0.02em;
+        }
+
+        .elementor-element-2465bdf4 .elementor-heading-title {
+            font-size: 2rem;
+        }
+
+        .elementor-element-5f071c72 .elementor-heading-title {
+            font-size: 2rem;
+            margin-bottom: 10px;
+        }
+
+        .elementor-element-2465bdf4 .elementor-widget-text-editor p,
+        .elementor-element-2465bdf4 .elementor-widget-text-editor p strong {
+            color: #475467;
+            font-size: 1.02rem;
+            line-height: 1.7;
+            margin: 0;
+        }
+
+        .elementor-element-2465bdf4 .elementor-widget-text-editor p + p {
+            margin-top: 12px;
+        }
+
+        #wpforms-form-127 {
+            display: block;
+            background: transparent;
+            border: 0;
+            box-shadow: none;
+        }
+
+        #wpforms-form-127 .wpforms-field-container {
+            display: grid;
+            gap: 20px;
+            margin: 0;
+        }
+
+        #wpforms-form-127 .wpforms-field {
+            margin: 0;
+        }
+
+        #wpforms-form-127 fieldset {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            min-width: 0;
+        }
+
+        #wpforms-form-127 legend,
+        #wpforms-form-127 .wpforms-field-label {
+            display: block;
+            margin: 0 0 9px;
+            color: #1f2937;
+            font-size: 0.96rem;
+            font-weight: 700;
+            line-height: 1.4;
+        }
+
+        #wpforms-form-127 .wpforms-required-label {
+            color: #d9363e;
+            font-weight: 700;
+        }
+
+        #wpforms-form-127 .wpforms-field-row {
+            display: flex;
+            gap: 16px;
+            margin: 0;
+        }
+
+        #wpforms-form-127 .wpforms-field-row-block {
+            flex: 1 1 0;
+            min-width: 0;
+        }
+
+        #wpforms-form-127 .wpforms-field-sublabel {
+            display: inline-block;
+            margin-top: 8px;
+            color: #5f6c7b;
+            font-size: 0.82rem;
+            font-weight: 600;
+            line-height: 1.3;
+        }
+
+        #wpforms-form-127 .wpforms-layout-row {
+            display: flex;
+            gap: 16px;
+            margin: 0;
+        }
+
+        #wpforms-form-127 .wpforms-layout-column {
+            flex: 1 1 0;
+            min-width: 0;
+        }
+
+        #wpforms-form-127 input[type="text"],
+        #wpforms-form-127 input[type="email"],
+        #wpforms-form-127 input[type="tel"],
+        #wpforms-form-127 textarea {
+            width: 100%;
+            box-sizing: border-box;
+            min-height: 48px;
+            padding: 13px 14px;
+            border: 1px solid rgba(17, 24, 39, 0.14);
+            border-radius: 12px;
+            background-color: #f8fafc;
+            color: #1f2937;
+            font-size: 1rem;
+            line-height: 1.5;
+            box-shadow: inset 0 1px 2px rgba(15, 23, 42, 0.02);
+            transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
+        }
+
+        #wpforms-form-127 textarea {
+            min-height: 150px;
+            resize: vertical;
+        }
+
+        #wpforms-form-127 input[type="text"]:focus,
+        #wpforms-form-127 input[type="email"]:focus,
+        #wpforms-form-127 input[type="tel"]:focus,
+        #wpforms-form-127 textarea:focus {
+            outline: none;
+            border-color: rgba(6, 106, 171, 0.8);
+            background-color: #ffffff;
+            box-shadow: 0 0 0 4px rgba(6, 106, 171, 0.12);
+        }
+
+        #wpforms-form-127 .wpforms-submit-container {
+            display: flex;
+            justify-content: flex-start;
+            margin-top: 10px;
+        }
+
+        #wpforms-form-127 .wpforms-submit {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 50px;
+            padding: 0 28px;
+            border: 1px solid #066aab;
+            border-radius: 12px;
+            background: linear-gradient(180deg, #0a7ac8 0%, #066aab 100%);
+            color: #ffffff;
+            font-size: 1rem;
+            font-weight: 700;
+            line-height: 1.2;
+            letter-spacing: 0.01em;
+            box-shadow: 0 12px 24px rgba(6, 106, 171, 0.2);
+            transition: transform 0.2s ease, box-shadow 0.2s ease, filter 0.2s ease;
+            cursor: pointer;
+        }
+
+        #wpforms-form-127 .wpforms-submit:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 16px 28px rgba(6, 106, 171, 0.25);
+            filter: brightness(1.03);
+        }
+
+        #wpforms-form-127 .wpforms-submit:focus-visible {
+            outline: none;
+            box-shadow: 0 0 0 4px rgba(6, 106, 171, 0.18), 0 12px 24px rgba(6, 106, 171, 0.2);
+        }
+
+        #wpforms-form-127 .wpforms-submit-spinner {
+            margin-left: 10px;
+        }
+
+        #wpforms-form-127 .wpforms-error-container,
+        #wpforms-form-127 .wpforms-field-error {
+            color: #b42318;
+        }
+
+        @media (max-width: 1024px) {
+            .elementor-element-5d150ff7 > .e-con-inner {
+                grid-template-columns: 1fr;
+                padding: 24px 20px;
+            }
+
+            .elementor-element-2465bdf4,
+            .elementor-element-5f071c72 {
+                padding: 22px 20px;
+            }
+        }
+
+        @media (max-width: 767px) {
+            #wpforms-form-127 .wpforms-field-row,
+            #wpforms-form-127 .wpforms-layout-row {
+                flex-direction: column;
+                gap: 12px;
+            }
+
+            #wpforms-form-127 input[type="text"],
+            #wpforms-form-127 input[type="email"],
+            #wpforms-form-127 input[type="tel"],
+            #wpforms-form-127 textarea {
+                min-height: 46px;
+                font-size: 0.98rem;
+            }
+
+            #wpforms-form-127 .wpforms-submit {
+                width: 100%;
+            }
+        }
+    </style>
     <div data-elementor-type="wp-page" data-elementor-id="112" class="elementor elementor-112" data-elementor-post-type="page">
         <div class="elementor-element elementor-element-239c288c e-con-full e-flex e-con e-parent" data-id="239c288c" data-element_type="container">
             <div class="elementor-element elementor-element-43eff2ac elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="43eff2ac" data-element_type="widget"
